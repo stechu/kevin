@@ -1,0 +1,12 @@
+google-auth-oauthlib==1.0.0
+google-auth-httplib2==0.1.0
+google-api-python-client==2.86.0
+apify-client==1.4.0
+fastapi==0.95.1
+uvicorn==0.22.0
+python-dotenv==1.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+openai==0.27.8
+pydantic==1.10.7
+python-jose==3.3.0 
